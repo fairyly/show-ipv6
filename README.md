@@ -19,6 +19,9 @@ $ ipv6
 $ Your ipv6 is: 2021:0:9d18:6ab8:245b:2089:20d2:452a which was in your clipboard.
 ```
 
+## 参考资料
+
+- https://github.com/xudafeng/ipv4/blob/master/bin/ipv4
 
 ## License
 
